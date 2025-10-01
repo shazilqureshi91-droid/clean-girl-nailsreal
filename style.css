@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background-color: #fff7f9;
+  background-color: #fff7f2;
   color: #333;
 }
 
@@ -14,14 +14,14 @@ body {
 }
 
 header.hero {
-  background: #ffecd1;
+  background: #ffd6e0;
   color: #333;
   text-align: center;
   padding: 80px 20px;
 }
 
 header.hero h1 {
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   margin-bottom: 20px;
 }
 
@@ -32,17 +32,17 @@ header.hero p {
 
 .cta-btn {
   display: inline-block;
-  padding: 15px 30px;
-  background: #ff6600;
+  padding: 15px 35px;
+  background: #ff3366;
   color: #fff;
-  font-weight: 600;
+  font-weight: 700;
   border-radius: 50px;
   text-decoration: none;
   transition: 0.3s;
 }
 
 .cta-btn:hover {
-  background: #e65c00;
+  background: #e60050;
 }
 
 section {
@@ -64,9 +64,9 @@ section {
 }
 
 .testimonial blockquote {
-  background: #ffe6d9;
+  background: #ffe6f0;
   padding: 20px;
-  border-left: 5px solid #ff6600;
+  border-left: 5px solid #ff3366;
   margin: 20px 0;
   font-style: italic;
 }
@@ -74,6 +74,6 @@ section {
 footer {
   text-align: center;
   padding: 20px 0;
-  background: #ffecd1;
+  background: #ffd6e0;
   color: #333;
 }
